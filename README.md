@@ -54,3 +54,10 @@ Python
 Pandas
 Matplotlib
 Jupyter Notebook / Google Colab
+
+-------------------NEXT STEP-----------
+Train ML model
+Testing and slecting best model by checking accuracy
+saving model 
+build simple UI using streamlit
+
